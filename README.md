@@ -1,6 +1,6 @@
 # Unity 3D Project Coconut_shy Yassine ACHOUR
 
-Cette verion du jeu est la Réalité Augmenté afin d'êetre jouable dans le monde réel.'export a été fait par Android.
+Cette verion du jeu est la Réalité Augmenté afin d'être jouable dans le monde réel l'export a été fait pour Android.
 
 ## About
 
