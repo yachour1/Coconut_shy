@@ -14,6 +14,7 @@ Pour lancer le jeu, il faut lancer à partir de la scene "Startscreen", et plus 
 * Déconseillé pour les personnes atteintes de Coulrophobie (peur excessive et irrationnelle des clowns)
 
 ### Screenshots
+![Coconut_shy](https://user-images.githubusercontent.com/55342659/215433452-c8e59d42-a05c-443f-b756-cfcca3a49928.PNG)
 
 
 ## License
