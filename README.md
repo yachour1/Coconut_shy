@@ -1,11 +1,10 @@
 # Unity 3D Project Coconut_shy Yassine ACHOUR
 
-Cette verion du jeu est la simulation pure sans éléments de Réalité Augmenté afin d'exposer les concepts de base d'une simultaion interactive 3D.
-Pour lancer le jeu, il faut lancer à partir de la scene "Startscreen", et plus qu'à s'amuser.
+Cette verion du jeu est la Réalité Augmenté afin d'êetre jouable dans le monde réel.'export a été fait par Android.
 
 ## About
 
-* 3D Game
+* Android Game
 * Author : Yassine ACHOUR
 
 ## Usage
