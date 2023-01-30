@@ -1,6 +1,7 @@
 # Unity 3D Project Coconut_shy Yassine ACHOUR
 
 Cette verion du jeu est la simulation pure sans éléments de Réalité Augmenté afin d'exposer les concepts de base d'une simultaion interactive 3D.
+Pour lancer le jeu, il faut lancer à partir de la scene "Startscreen", et plus qu'à s'amuser.
 
 ## About
 
@@ -8,6 +9,7 @@ Cette verion du jeu est la simulation pure sans éléments de Réalité Augment�
 * Author : Yassine ACHOUR
 
 ## Usage
+
 * 10 -99 ans
 * Déconseillé pour les personnes atteintes de Coulrophobie (peur excessive et irrationnelle des clowns)
 
